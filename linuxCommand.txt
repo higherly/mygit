@@ -2,5 +2,5 @@
 删除文件 rm
 创建目录 mdkir
 打包 tar -xzf
-创建目录 mdkir
-删除文件 rm
+
+
