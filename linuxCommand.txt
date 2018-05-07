@@ -1,3 +1,4 @@
 列出文件列表 ls
 删除文件 rm
 创建目录 mdkir
+打包 tar -xzf
